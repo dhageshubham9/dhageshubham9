@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shubham 
-- 👀 I’m interested in Html 
-- 🌱 I’m currently learning Bachelor's 
-- 💞️ I’m looking to collaborate on LinkedIn 
+- 👋 Hi, I’m Shubham Dhage
+- 👀 I’m interested in Full Stack Web Development 
+- 🌱 I’m currently learning Bachelor's in Electrical Engineering
+- 💞️ I’m looking work as a software Developer 
 - 📫 How to reach me mob. No. 7030975335
 
 <!---
